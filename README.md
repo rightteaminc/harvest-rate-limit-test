@@ -12,7 +12,7 @@ Documentation for Harvest Rate Limits is [here](git@github.com:rightteaminc/harv
 
 Observe that if the app is run with 50 requests, there will be no failures recorded. However, if you run 100 requests, which is within the rate limit for a single account, there will be approximately 100 failures recorded with around 50 from each account.
 
-
+Note that if you want to run this locally, the account id's and token have been omitted for security purposes and will need to be placed into the source code.
 
 ## Result with 50 Requests
 ```
