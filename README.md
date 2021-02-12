@@ -2,7 +2,7 @@
 
 This repository contains a small console app that illustrating that the Harvest API appears to be rate limiting to 100 requests per 15 seconds per IP address, and not per account token. 
 
-Documentation for Harvest Rate Limits is [here](git@github.com:rightteaminc/harvest-rate-limit-test.git).
+Documentation for Harvest Rate Limits is [here](https://help.getharvest.com/api-v2/introduction/overview/general/#rate-limiting).
 
 ## Test Process
 
